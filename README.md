@@ -1,4 +1,4 @@
-# f22-sharktank
+# sharktank
 
   Install dependencies: 
   
